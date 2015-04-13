@@ -1,0 +1,66 @@
+{
+  "collections": [
+    {
+      "id": 1,
+      "title": "First Collection Title"
+    },
+    {
+      "id": 2,
+      "title": "Second Collection Title"
+    },
+    {
+      "id": 3,
+      "title": "Third Collection Title"
+    },
+    {
+      "id": 4,
+      "title": "Fourth Collection Title"
+    }
+  ],
+  "documents": [
+    {
+      "external_id": "AbZsZs",
+      "body": "some document body content",
+      "collectionId": 1
+    },
+    {
+      "external_id": "KLsGG",
+      "body": "some document body content",
+      "collectionId": 1
+    },
+    {
+      "external_id": "JKKLPTsadsa1",
+      "body": "some document body content",
+      "collectionId": 2
+    },
+    {
+      "external_id": "KJxXsq6",
+      "body": "some document body content",
+      "collectionId": 2
+    },
+    {
+      "external_id": "LAUYY1K",
+      "body": "some document body content",
+      "collectionId": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "documentId": "AbZsZs"
+    },
+    {
+      "id": 2,
+      "body": "another comment",
+      "documentId": "AbZsZs"
+    },
+    {
+      "id": 3,
+      "body": "yet another comment",
+      "documentId": "AbZsZs"
+    }
+  ],
+  "resources": [],
+  "pages": []
+}

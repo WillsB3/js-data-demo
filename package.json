@@ -1,0 +1,7 @@
+{
+  "name": "js-data-test-app",
+  "description": "JS-Data Test App",
+  "devDependencies": {
+    "json-server": "^0.6.9"
+  }
+}

@@ -1,0 +1,7 @@
+<h1>Collections</h1>
+
+<ul>
+	<li ng-repeat="collection in collections track by collection.id">
+		<a ng-href="#/collections/{{ ::collection.id }}">{{ ::collection.id }}: {{ collection.title }}</a>
+	</li>
+</ul>
